@@ -1,0 +1,23 @@
+C:\Users\BATMAN\AppData\Local\Temporary Projects\practical1_practice\bin\Debug\practical1_practice.exe
+C:\Users\BATMAN\AppData\Local\Temporary Projects\practical1_practice\bin\Debug\practical1_practice.pdb
+C:\Users\BATMAN\AppData\Local\Temporary Projects\practical1_practice\bin\Debug\practical1_practice.xml
+C:\Users\BATMAN\AppData\Local\Temporary Projects\practical1_practice\obj\x86\Debug\practical1_practice.Form1.resources
+C:\Users\BATMAN\AppData\Local\Temporary Projects\practical1_practice\obj\x86\Debug\practical1_practice.Resources.resources
+C:\Users\BATMAN\AppData\Local\Temporary Projects\practical1_practice\obj\x86\Debug\practical1_practice.vbproj.GenerateResource.Cache
+C:\Users\BATMAN\AppData\Local\Temporary Projects\practical1_practice\obj\x86\Debug\practical1_practice.exe
+C:\Users\BATMAN\AppData\Local\Temporary Projects\practical1_practice\obj\x86\Debug\practical1_practice.xml
+C:\Users\BATMAN\AppData\Local\Temporary Projects\practical1_practice\obj\x86\Debug\practical1_practice.pdb
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\obj\x86\Debug\practical1_practice.exe
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\obj\x86\Debug\practical1_practice.xml
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\obj\x86\Debug\practical1_practice.pdb
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\bin\Debug\practical1_practice.exe
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\bin\Debug\practical1_practice.pdb
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\bin\Debug\practical1_practice.xml
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\obj\x86\Debug\practical1_practice.Form1.resources
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\obj\x86\Debug\practical1_practice.form_factor.resources
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\obj\x86\Debug\practical1_practice.Resources.resources
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\obj\x86\Debug\practical1_practice.vbproj.GenerateResource.Cache
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\obj\x86\Debug\practical1_practice.form_area.resources
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\obj\x86\Debug\practical1_practice.form_perimeter.resources
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\obj\x86\Debug\practical1_practice.form_temperature.resources
+C:\Users\BATMAN\documents\visual studio 2010\Projects\practical1_practice\practical1_practice\obj\x86\Debug\practical1_practice.form_pattern.resources
